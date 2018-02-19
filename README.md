@@ -7,4 +7,4 @@ You can share image to LINE
 
 
 This project can not currently share to M+ messenger
-![image](https://github.com/DannyYang/SocialShareDemo/blob/master/snapshot/share2.png)
+![image](https://github.com/DannyYang/SocialShareDemo/blob/master/snapshot/shareToMplus.png)
