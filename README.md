@@ -1,5 +1,5 @@
 # SocialShareDemo
-This project shows how to use social APIs to share to the social media APP
+This project shows that you can share media with social APIs
 
 You can share image to LINE
 ![image](https://github.com/DannyYang/SocialShareDemo/blob/master/snapshot/share1.png)
