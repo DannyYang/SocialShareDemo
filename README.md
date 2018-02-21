@@ -1,5 +1,6 @@
 # SocialShareDemo
 This is a quick demo about UIActivityViewController.
+
 It shows that you can share media with social APIs
 
 You can share image to LINE
